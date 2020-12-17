@@ -1,0 +1,18 @@
+Format:
+
+{
+'id': 1, 
+'type': 'multiple disease genes', 
+'genes': 
+[
+
+{'gene_name': 'ENSG00000215915', 'name': 'ATAD3C', 'description': ' ATPase family, AAA domain containing 3C [Source:HGNC Symbol;Acc:32151]', 'chromosome': ' 1', 'strand': ' forward', 'start_pos': ' 1385069', 'end_pos': ' 1405538', 'diseases': [' ']}, 
+
+{'gene_name': 'ENSG00000160072', 'name': 'ATAD3B', 'description': ' ATPase family, AAA domain containing 3B [Source:HGNC Symbol;Acc:24007]', 'chromosome': ' 1', 'strand': ' forward', 'start_pos': ' 1407143', 'end_pos': ' 1433228', 'diseases': [' ATPase FAMILY, AAA DOMAIN-CONTAINI [*612317]']},
+   
+{'gene_name': 'ENSG00000197785', 'name': 'ATAD3A', 'description': ' ATPase family, AAA domain containing 3A [Source:HGNC Symbol;Acc:25567]', 'chromosome': ' 1', 'strand': ' forward', 'start_pos': ' 1447531', 'end_pos': ' 1470067', 'diseases': [' ATPase FAMILY, AAA DOMAIN-CONTAINI [*612316]']}
+]
+
+}
+
+and these dictionaries also in a list. 
