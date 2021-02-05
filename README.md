@@ -6,6 +6,9 @@
 
 ### 5 Feb
 * Downloading iqtree & muscle to the server. 
+* Created unique blast files using the code on server.
+* Created alignments using MAFFT. 
+* Still waiting for iqtree. 
 
 
 ![picture](ACBF2D8A-0C7E-4D67-BD11-F5946EA34B7D_1_105_c.jpeg)
