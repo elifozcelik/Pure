@@ -10,5 +10,12 @@
 * Created alignments using MAFFT. 
 * Still waiting for iqtree. 
 
+### 6 Feb
+* Worked on Phylostat. 
+* Created a overall project report. 
+* Worked on fixing closest paralog problem. 
+
+### 7 Feb
+* Creating trees using RAXML-ng. 
 
 ![picture](ACBF2D8A-0C7E-4D67-BD11-F5946EA34B7D_1_105_c.jpeg)
